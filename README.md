@@ -1,4 +1,4 @@
-# TrimTechBR
+# TrimTechBR ![logo](./images/trimtech-logo.png)
 
 🌐 Language: [English](README.md) | [Português do Brasil](README.pt-BR.md)
 
