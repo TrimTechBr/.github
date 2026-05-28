@@ -1,6 +1,6 @@
-![logo](./images/trimtech-logo-banner.png)
+![logo](../images/trimtech-logo-banner.png)
 
-🌐 Language: [English](README.md) | [Português do Brasil](README.pt-BR.md)
+🌐 Language: [English](./README.md) | [Português do Brasil](./README.pt-BR.md)
 
 **TrimTechBR** is a collaborative GitHub organization created by **Henderson Andrade** and **Henrique Mizael** to share personal, open-source and community-driven technology projects.
 
